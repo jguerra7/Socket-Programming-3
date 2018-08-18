@@ -1,0 +1,20 @@
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.installed.cfg
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
